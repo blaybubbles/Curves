@@ -1,6 +1,6 @@
 # Curves interpolations library 
 
-Library contains spline and Bézier functions for creating a smooth 3d 
+Unity Library contains spline and Bézier functions for creating a smooth 3d 
 curves inspired by three.js
 
 # CurveInterpolations 
