@@ -3,7 +3,10 @@
 Unity Library contains spline and Bézier functions for creating a smooth 3d 
 curves inspired by three.js
 
-# CurveInterpolations 
+![Image](/Assets/BB/CurveInterpolations/img/img1.jpg)
+
+
+## CurveInterpolations 
 
 Static utility class providing methods for working with curves
 
@@ -19,7 +22,7 @@ Static utility class providing methods for working with curves
   
   Returns a point on cubic bezier curve, defined by a start point, endpoint and two control points. (https://en.wikipedia.org/wiki/B%C3%A9zier_curve)
   
-# Implemented classes
+## Implemented classes
 CubicBezierCurve - Contains a smooth 3d cubic bezier curve, defined by a start point, endpoint and two 
 control points.
 
